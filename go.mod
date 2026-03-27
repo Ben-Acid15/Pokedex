@@ -1,3 +1,3 @@
-module github.com/Ben-Acid15/Pokedex
+module github.com/bootdotdev/pokedexcli
 
-go 1.24.4
+go 1.26.0
